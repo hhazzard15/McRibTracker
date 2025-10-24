@@ -1,0 +1,42 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#2d2d2d"/>
+  
+  <!-- McRib Sandwich -->
+  <!-- Bun Top -->
+  <ellipse cx="200" cy="120" rx="120" ry="30" fill="#d4a574"/>
+  <ellipse cx="200" cy="115" rx="110" ry="25" fill="#e6b885"/>
+  
+  <!-- Meat -->
+  <rect x="90" y="130" width="220" height="40" fill="#8b4513" rx="5"/>
+  <rect x="100" y="135" width="200" height="8" fill="#654321"/>
+  <rect x="110" y="145" width="180" height="8" fill="#654321"/>
+  <rect x="120" y="155" width="160" height="8" fill="#654321"/>
+  
+  <!-- Sauce -->
+  <ellipse cx="200" cy="140" rx="100" ry="8" fill="#8b0000"/>
+  
+  <!-- Pickles -->
+  <ellipse cx="150" cy="145" rx="15" ry="8" fill="#228b22"/>
+  <ellipse cx="250" cy="150" rx="12" ry="6" fill="#228b22"/>
+  <ellipse cx="180" cy="155" rx="10" ry="5" fill="#228b22"/>
+  
+  <!-- Onions -->
+  <ellipse cx="220" cy="148" rx="8" ry="4" fill="#f5f5dc"/>
+  <ellipse cx="170" cy="152" rx="6" ry="3" fill="#f5f5dc"/>
+  
+  <!-- Bun Bottom -->
+  <ellipse cx="200" cy="180" rx="130" ry="35" fill="#d4a574"/>
+  <ellipse cx="200" cy="175" rx="120" ry="30" fill="#e6b885"/>
+  
+  <!-- Sesame Seeds -->
+  <ellipse cx="150" cy="105" rx="3" ry="2" fill="#f5deb3"/>
+  <ellipse cx="180" cy="100" rx="3" ry="2" fill="#f5deb3"/>
+  <ellipse cx="220" cy="102" rx="3" ry="2" fill="#f5deb3"/>
+  <ellipse cx="250" cy="108" rx="3" ry="2" fill="#f5deb3"/>
+  <ellipse cx="200" cy="95" rx="3" ry="2" fill="#f5deb3"/>
+  
+  <!-- Title -->
+  <text x="200" y="250" font-family="monospace" font-size="24" fill="#ffd700" text-anchor="middle" font-weight="bold">McRIB</text>
+  <text x="200" y="275" font-family="monospace" font-size="12" fill="#ffd700" text-anchor="middle">PLACEHOLDER</text>
+</svg>
