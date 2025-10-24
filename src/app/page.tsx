@@ -15,7 +15,7 @@ export default function Home() {
         <div className="flex justify-center mb-8">
           <div className="bg-gray-800 border-4 border-yellow-400 p-4 rounded-lg">
             <Image
-              src="/mcrib-main.svg"
+              src="/mcrib-main.jpg"
               alt="McRib Pixel Art"
               width={400}
               height={300}
